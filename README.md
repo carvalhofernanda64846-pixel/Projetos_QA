@@ -2,7 +2,7 @@
 
 ## 🚀 Execução dos Testes (Vídeos)
 - [Execução do Teste no Google]([LINK](https://drive.google.com/file/d/1_YAgH4xvGwe_Vp-0OZtn9HD1BOxIYKK-/view?usp=sharing))
-- 
+
 - [Execução do Teste de pesquisa]([LINK](https://drive.google.com/file/d/1iIkooLwUhUbfzoeoQ8Ywy-7hnxO__VME/view?usp=sharing))
 
 ---
