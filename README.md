@@ -34,6 +34,6 @@
 - JavaScript
 - Node.js
 - vs code
-- Postiman
+- Postman
 - Google Planilhas
 
