@@ -30,6 +30,7 @@
 ## 🤖 Scripts Automatizados
 - cypress/e2e/google.cy.js
 - cypress/e2e/pesquisa.cy.js
+- cypress/e2e/ecommerce.cy.js
 
 ---
 
