@@ -14,7 +14,7 @@
 - [Tabela de Casos de Teste - Checkout - Linguagem Gherkin](https://drive.google.com/file/d/1maN1vuM-m0Wmk_OKe7mwKr9t2RjiAJTM/view?usp=sharing)
 - [Tabela de Casos de Teste - Idade - Linguagem Tradicional](https://drive.google.com/file/d/1adSY8xVQtb_056oqzzzSFqBH2ULhnewE/view?usp=sharing)
 - [Tabela de Casos de Teste - Cadastro 2 - Linguagem Tradicional](https://drive.google.com/file/d/1s9tsUwrdzqy2F7rJbVT1fPrUqKO_ItZC/view?usp=sharing)
-- [Tabela de Casos de Teste simples - UI automatizado - (cypress)](https://drive.google.com/file/d/176T0XtdVzt7HvTJNnQAZskQzXDFZ_0Wt/view?usp=sharing)
+- [Tabela de Casos de Teste simples - UI automatizado - (cypress)](https://drive.google.com/file/d/1INSDnpVV0ubX5rHj-gDPRgZZ8iA7GL13/view?usp=sharing)
 - [Tabela de decisão - checkout](https://drive.google.com/file/d/1xy8tIghmEA7YfwESQMcGRe7wrl6OkQqC/view?usp=sharing)
 - [Tabela de valor limite](https://drive.google.com/file/d/1iq5hAYmG7HSiW58e1QOrvx7z4pgsSadu/view?usp=sharing)
 - [Tabela de partição de equivalência](https://drive.google.com/file/d/1AsVWKQNNnj-Npc3aMLpsRFCODqyKkbiR/view?usp=sharing)
