@@ -1,6 +1,10 @@
 name: Testes Automáticos
 
-on: [push]
+on:
+  push:
+    paths-ignore:
+      - 'README.md'
+      
 
 jobs:
   cypress-run:
